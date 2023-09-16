@@ -4,3 +4,4 @@ export const
 increament=createAction('increament');
 export const decreament = createAction('decreament');
 export const reset = createAction('reset');
+export const change = createAction('change');
